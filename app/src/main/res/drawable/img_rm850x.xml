@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- PSU Enclosure -->
+    <path
+        android:pathData="M35,30h130v80h-130z"
+        android:fillColor="#151E2B"/>
+    <!-- Intake Fan Grill -->
+    <path
+        android:pathData="M80,70m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0"
+        android:strokeColor="#2E3C52"
+        android:strokeWidth="2"
+        android:fillColor="#0F1621"/>
+    <!-- Modular Cable Ports -->
+    <path
+        android:pathData="M125,45h30v8h-30z"
+        android:fillColor="#00E5FF"/>
+    <path
+        android:pathData="M125,60h30v8h-30z"
+        android:fillColor="#243346"/>
+    <path
+        android:pathData="M125,75h30v8h-30z"
+        android:fillColor="#243346"/>
+    <path
+        android:pathData="M125,90h30v8h-30z"
+        android:fillColor="#243346"/>
+</vector>

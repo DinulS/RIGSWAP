@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0"
+        android:fillColor="#15202E"/>
+    <!-- Hooded / Cyber Gamer silhouette -->
+    <path
+        android:pathData="M24,10 C18,10 14,14 14,22 C14,26 16,30 18,32 L12,42 L36,42 L30,32 C32,30 34,26 34,22 C34,14 30,10 24,10 Z"
+        android:fillColor="#223247"/>
+    <!-- Glowing Visor / Eyes -->
+    <path
+        android:pathData="M18,22h12v4h-12z"
+        android:fillColor="#00E5FF"/>
+</vector>

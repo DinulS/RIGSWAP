@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- Keyboard Base Case -->
+    <path
+        android:pathData="M25,40h150v65h-150z"
+        android:fillColor="#151D29"/>
+    <!-- Key Rows -->
+    <path
+        android:pathData="M30,45h140v8h-140z"
+        android:fillColor="#243247"/>
+    <path
+        android:pathData="M30,57h140v8h-140z"
+        android:fillColor="#00E5FF"/>
+    <path
+        android:pathData="M30,69h140v8h-140z"
+        android:fillColor="#7C4DFF"/>
+    <path
+        android:pathData="M30,81h140v8h-140z"
+        android:fillColor="#00E5FF"/>
+    <path
+        android:pathData="M55,93h90v8h-90z"
+        android:fillColor="#FFD600"/>
+</vector>

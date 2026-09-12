@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- CPU Substrate -->
+    <path
+        android:pathData="M55,25h90v90h-90z"
+        android:fillColor="#1E3A2F"/>
+    <!-- Heatspreader -->
+    <path
+        android:pathData="M65,35h70v70h-70z"
+        android:fillColor="#B0BEC5"/>
+    <!-- Octagonal Cutouts / IHS legs -->
+    <path
+        android:pathData="M75,45h50v50h-50z"
+        android:fillColor="#ECEFF1"/>
+    <!-- Text / Logo Marks -->
+    <path
+        android:pathData="M80,65h40v4h-40z"
+        android:fillColor="#FF6D00"/>
+    <path
+        android:pathData="M85,75h30v2h-30z"
+        android:fillColor="#37474F"/>
+    <path
+        android:pathData="M88,80h24v2h-24z"
+        android:fillColor="#78909C"/>
+    <!-- Golden Triangle pin 1 mark -->
+    <path
+        android:pathData="M58,28l6,0 -6,6z"
+        android:fillColor="#FFB800"/>
+</vector>

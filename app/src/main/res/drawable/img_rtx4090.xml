@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- GPU Body -->
+    <path
+        android:pathData="M20,35h160v70h-160z"
+        android:fillColor="#151E2E"/>
+    <!-- Fans -->
+    <path
+        android:pathData="M48,70m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:fillColor="#0E141D"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M100,70m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:fillColor="#0E141D"
+        android:strokeColor="#7C4DFF"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M152,70m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:fillColor="#0E141D"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"/>
+    <!-- Hub Centers -->
+    <path
+        android:pathData="M48,70m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#00E5FF"/>
+    <path
+        android:pathData="M100,70m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#7C4DFF"/>
+    <path
+        android:pathData="M152,70m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#00E5FF"/>
+    <!-- PCIe pins bottom -->
+    <path
+        android:pathData="M30,105h80v6h-80z"
+        android:fillColor="#FFB800"/>
+    <!-- Top RGB Bar -->
+    <path
+        android:pathData="M25,32h150v3h-150z"
+        android:fillColor="#00E5FF"/>
+</vector>

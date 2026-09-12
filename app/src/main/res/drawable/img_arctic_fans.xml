@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- Twin Case Fans -->
+    <path
+        android:pathData="M30,30h65v65h-65z"
+        android:fillColor="#151C26"/>
+    <path
+        android:pathData="M62,62m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:fillColor="#0E141D"/>
+    <path
+        android:pathData="M105,30h65v65h-65z"
+        android:fillColor="#151C26"/>
+    <path
+        android:pathData="M137,62m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:fillColor="#0E141D"/>
+</vector>

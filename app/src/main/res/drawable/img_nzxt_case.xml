@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- Case Outer -->
+    <path
+        android:pathData="M50,15h100v110h-100z"
+        android:fillColor="#151C26"/>
+    <!-- Tempered Glass Window -->
+    <path
+        android:pathData="M60,25h80v75h-80z"
+        android:fillColor="#09101A"/>
+    <!-- Inner Components Glow -->
+    <path
+        android:pathData="M80,45h30v25h-30z"
+        android:fillColor="#00E5FF"/>
+    <path
+        android:pathData="M70,80h60v8h-60z"
+        android:fillColor="#7C4DFF"/>
+    <!-- Front Flow Perforations -->
+    <path
+        android:pathData="M142,20h3v100h-3z"
+        android:fillColor="#222F42"/>
+    <!-- PSU Shroud Bottom -->
+    <path
+        android:pathData="M55,105h90v15h-90z"
+        android:fillColor="#192331"/>
+</vector>

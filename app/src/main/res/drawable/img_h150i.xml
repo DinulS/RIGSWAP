@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- Radiator -->
+    <path
+        android:pathData="M15,25h170v38h-170z"
+        android:fillColor="#151C28"/>
+    <!-- Radiator 3 Fans -->
+    <path
+        android:pathData="M45,44m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:fillColor="#111722"/>
+    <path
+        android:pathData="M100,44m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:fillColor="#111722"/>
+    <path
+        android:pathData="M155,44m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:fillColor="#111722"/>
+    <!-- Liquid tubes -->
+    <path
+        android:pathData="M165,63 C165,95 130,95 115,95"
+        android:strokeColor="#243046"
+        android:strokeWidth="5"
+        android:fillColor="#00000000"/>
+    <path
+        android:pathData="M150,63 C150,90 125,90 110,105"
+        android:strokeColor="#1E283A"
+        android:strokeWidth="5"
+        android:fillColor="#00000000"/>
+    <!-- CPU Pump block with RGB Ring -->
+    <path
+        android:pathData="M95,100m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:fillColor="#141E2D"
+        android:strokeColor="#FF007F"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M95,100m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"
+        android:fillColor="#00E5FF"/>
+</vector>

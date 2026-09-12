@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- Twin Towers -->
+    <path
+        android:pathData="M35,30h55v75h-55z"
+        android:fillColor="#222B3A"/>
+    <path
+        android:pathData="M110,30h55v75h-55z"
+        android:fillColor="#222B3A"/>
+    <!-- Heatpipes base -->
+    <path
+        android:pathData="M70,105h60v12h-60z"
+        android:fillColor="#FFB300"/>
+    <!-- Center Fan (chromax black with cyan touch) -->
+    <path
+        android:pathData="M100,68m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:fillColor="#151E2B"/>
+    <path
+        android:pathData="M100,68m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0"
+        android:fillColor="#00E5FF"/>
+</vector>

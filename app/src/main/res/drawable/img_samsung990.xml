@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+    <path
+        android:pathData="M0,0h200v140h-200z"
+        android:fillColor="#0D141F"/>
+    <!-- M.2 PCB -->
+    <path
+        android:pathData="M30,55h140v30h-140z"
+        android:fillColor="#111822"/>
+    <!-- Heat sink grooves -->
+    <path
+        android:pathData="M45,58h105v24h-105z"
+        android:fillColor="#1A2434"/>
+    <path
+        android:pathData="M50,65h35v10h-35z"
+        android:fillColor="#00E5FF"/>
+    <path
+        android:pathData="M95,65h45v10h-45z"
+        android:fillColor="#FF3D00"/>
+    <!-- Gold connector pins -->
+    <path
+        android:pathData="M165,60h5v20h-5z"
+        android:fillColor="#FFD600"/>
+    <!-- Screw notch -->
+    <path
+        android:pathData="M30,67h5v6h-5z"
+        android:fillColor="#0D141F"/>
+</vector>
